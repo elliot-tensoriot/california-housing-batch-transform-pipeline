@@ -1,0 +1,6 @@
+CaliforniaHousing/*
+data/*
+preprocess.py
+*.tgz
+github-token
+*.ipynb_checkpoints
